@@ -365,19 +365,15 @@ pkg install nmap
 </a>
 
 
-**Makavael Idrisi** - [@Makavael](https://github.com/Makavael/)
- 
+<a href="https://www.buymeacoffee.com/Makavael" target="_blank">
+    <img src="https://raw.githubusercontent.com/Makavael/PhoneSploit-Pro/main/Buy-Me-A-Coffee.png" width="150" alt="Buy Me A Coffee">
+</a>
 
-# Support Me
+<a href="https://paypal.me/Makavael" target="_blank">
+    <img src="https://raw.githubusercontent.com/Makavael/PhoneSploit-Pro/main/PayPal.png" width="150" alt="PayPal">
+</a>
 
-<a href="https://www.buymeacoffee.com/Makavael" target="_blank"><img src="https://github.com/Makavael/PhoneSploit-Pro/blob/main/Buy-Me-A-Coffee.png" width="150" alt="Buy Me A Coffee"></a>
+<a href="https://github.com/Makavael" target="_blank">
+    <img src="https://raw.githubusercontent.com/Makavael/PhoneSploit-Pro/main/Dev.jpg" width="150" height="150" alt="Developer">
+</a>
 
-<a href="https://paypal.me/Makavael" target="_blank"><img src="https://github.com/Makavael/PhoneSploit-Pro/blob/main/PayPal.png" width="150" alt="PayPal"></a>
-
----
-
-### Developer Info
-<a href="https://github.com/Makavael" target="_blank"><img src="https://github.com/Makavael/PhoneSploit-Pro/blob/main/Dev.jpg" width="150" height="150" alt="Developer"></a>
-
-
-Copyright © 2024 Mohd Azeem (github.com/Makavael)
