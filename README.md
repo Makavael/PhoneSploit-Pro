@@ -366,14 +366,10 @@ pkg install nmap
 
 
 <a href="https://www.buymeacoffee.com/Makavael" target="_blank">
-    <img src="https://raw.githubusercontent.com/Makavael/PhoneSploit-Pro/main/Buy-Me-A-Coffee.png" width="150" alt="Buy Me A Coffee">
+    <img src="https://raw.githubusercontent.com/Makavael/PhoneSploit-Pro/main/photo_2024-11-13_16-23-31.jpg" width="150" alt="Buy Me A Coffee">
 </a>
 
 <a href="https://paypal.me/Makavael" target="_blank">
-    <img src="https://raw.githubusercontent.com/Makavael/PhoneSploit-Pro/main/PayPal.png" width="150" alt="PayPal">
-</a>
-
-<a href="https://github.com/Makavael" target="_blank">
-    <img src="https://raw.githubusercontent.com/Makavael/PhoneSploit-Pro/main/Dev.jpg" width="150" height="150" alt="Developer">
+    <img src="https://raw.githubusercontent.com/Makavael/PhoneSploit-Pro/main/photo_2024-11-13_16-23-35.jpg" width="150" alt="PayPal">
 </a>
 
