@@ -26,9 +26,9 @@ The goal of this project is to make penetration testing and vulnerability assess
 
 # Screenshots
 
-![Screenshot Page 1](docs/Screenshot-1.png)
-![Screenshot Page 2](docs/Screenshot-2.png)
-![Screenshot Page 3](docs/Screenshot-3.png)
+![Screenshot Page 1](https://github.com/Makavael/PhoneSploit-Pro/blob/main/Screenshot-1.png)
+![Screenshot Page 2](https://github.com/Makavael/PhoneSploit-Pro/blob/main/Screenshot-2.png)
+![Screenshot Page 3](https://github.com/Makavael/PhoneSploit-Pro/blob/main/Screenshot-3.png)
 
 # Features 
 ## v1.0
@@ -120,6 +120,7 @@ __PhoneSploit Pro__ does not need any installation and runs directly using `pyth
 Make sure all the [required](https://github.com/Makavael/PhoneSploit-Pro#requirements) software are installed.
 
 Open terminal and paste the following commands : 
+
 ```
 git clone https://github.com/Makavael/PhoneSploit-Pro.git
 ```
