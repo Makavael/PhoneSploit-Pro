@@ -6,12 +6,12 @@
 
 An all-in-one hacking tool written in `Python` to remotely exploit Android devices using `ADB` (Android Debug Bridge) and `Metasploit-Framework`.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AzeemIdrisi/PhoneSploit-Pro)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Makavael/PhoneSploit-Pro)
 ![Python](https://img.shields.io/badge/python-v3.10%2B-blue)
-![GitHub Release Date](https://img.shields.io/github/release-date/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/PhoneSploit-Pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AzeemIdrisi/PhoneSploit-Pro?style=social)
+![GitHub Release Date](https://img.shields.io/github/release-date/Makavael/PhoneSploit-Pro?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/Makavael/PhoneSploit-Pro?logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/Makavael/PhoneSploit-Pro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Makavael/PhoneSploit-Pro?style=social)
 
 </div>
 
