@@ -369,16 +369,15 @@ pkg install nmap
  
 
 # Support Me
-If you like my work you can support me via :
 
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Makavael/Makavael/main/docs/paypal-button-blue.png" alt="PayPal" width="147">
-</a> 
-<a href="https://www.buymeacoffee.com/Makavael" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Makavael/Makavael/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200">
-</a>
+<a href="https://www.buymeacoffee.com/Makavael" target="_blank"><img src="https://github.com/Makavael/PhoneSploit-Pro/blob/main/Buy-Me-A-Coffee.png" width="150" alt="Buy Me A Coffee"></a>
 
+<a href="https://paypal.me/Makavael" target="_blank"><img src="https://github.com/Makavael/PhoneSploit-Pro/blob/main/PayPal.png" width="150" alt="PayPal"></a>
 
-<hr>
+---
+
+### Developer Info
+<a href="https://github.com/Makavael" target="_blank"><img src="https://github.com/Makavael/PhoneSploit-Pro/blob/main/Dev.jpg" width="150" height="150" alt="Developer"></a>
+
 
 Copyright © 2024 Mohd Azeem (github.com/Makavael)
