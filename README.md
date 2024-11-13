@@ -371,9 +371,13 @@ pkg install nmap
 # Support Me
 If you like my work you can support me via :
 
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="https://github.com/Makavael/Makavael/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/Makavael" target="_blank"> <kbd> <img src="https://github.com/Makavael/Makavael/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
+<a href="https://paypal.me/AzeemIdrisi" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/Makavael/Makavael/main/docs/paypal-button-blue.png" alt="PayPal" width="147">
+</a> 
+<a href="https://www.buymeacoffee.com/Makavael" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/Makavael/Makavael/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
+
 
 <hr>
 
