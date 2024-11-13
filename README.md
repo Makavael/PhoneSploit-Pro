@@ -359,8 +359,8 @@ pkg install nmap
 # Developer
 
 <a href="https://github.com/Makavael/">
-<!--   <img src="https://contrib.rocks/image?repo=Makavael/phonesploit-pro" /> -->
- <img width="150px" src=https://github.com/Makavael/PhoneSploit-Pro/assets/112647789/a5fa646c-93a2-460f-bcb7-528fedb147e9 />
+<!--   <img src="https://github.com/Makavael/PhoneSploit-Pro/blob/main/download.png" /> -->
+ <img width="150px" src=https://github.com/Makavael/PhoneSploit-Pro/blob/main/download.png />
 
 </a>
 
